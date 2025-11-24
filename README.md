@@ -38,7 +38,7 @@ Serverless batch job orchestration at scale. Demonstrates cost-effective compute
 ## 📫 Let's Connect
 
 - 🌐 Website: [danzo.se](https://danzo.se)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/humzi)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/humayunzia/)
 - 📧 Open to consulting opportunities for AWS architecture and DevOps transformation
 
 ---
