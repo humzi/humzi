@@ -5,8 +5,7 @@
 - 🔒 Specialist in secure, scalable AWS landing zones, organization design, and cost optimization
 - ⚡ 10+ years building CI/CD pipelines, platform engineering, and cloud ops automation for startups & enterprises
 - 🛠️ **Tools:** AWS (CDK, Control Tower, Landing Zones), Terraform, Docker, TeamCity, GitHub Actions, OpenTelemetry, C#/.NET, PowerShell, Bash
-- 🌍 [danzo.se](https://danzo.se) | Available for consulting
-
+  
 ## 🚀 Featured Projects
 
 ### [DevOps-Toolkit](https://github.com/humzi/DevOps-Toolkit)
